@@ -4,21 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>ZIMVPNFILES | Zimbabwe VPN Files</title>
-
-<meta name="description" content="Discover ZIMVPNFILES, Zimbabwe VPN configuration resources, Android VPN files, HA Tunnel information, Droid VPN resources and setup guides.">
-
-<meta name="keywords" content="ZIMVPNFILES, Zimbabwe VPN Files, Zim VPN, HA Tunnel Configurations, Droid VPN Files, Android VPN Zimbabwe">
-
-<meta name="robots" content="index, follow">
-<meta name="author" content="ZIMVPNFILES">
-
-<link rel="canonical" href="https://zimvpnfiles.vercel.app/">
-
-<meta property="og:title" content="ZIMVPNFILES - Zimbabwe VPN Files">
-<meta property="og:description" content="Zimbabwe VPN resources, Android configurations and setup guides.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://zimvpnfiles.vercel.app/">
 
 <script type="application/ld+json">
 {

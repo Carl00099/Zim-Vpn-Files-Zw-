@@ -5,15 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "WebSite",
- "name": "ZIMVPNFILES",
- "alternateName": "Zim VPN Files",
- "url": "https://zimvpnfiles.vercel.app/"
-}
-</script>
+
 
 </head>
 
